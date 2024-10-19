@@ -1,1 +1,3 @@
-# learn-shell
+# learn-shell 
+hello world
+i am going to learn bash shell
