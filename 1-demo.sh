@@ -4,3 +4,4 @@ ls
 ls -l /opt
 cd
 pwd
+echo
