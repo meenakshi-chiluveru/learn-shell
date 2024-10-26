@@ -9,4 +9,4 @@ hello shell
 3. conditions
 4. functions 
 5. loops
-6. 
+6. sed editor
