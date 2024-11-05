@@ -6,10 +6,14 @@
 
 # example
 
-name = devops
-faculty = john
+name=devops
+faculty=john
 echo welcome to ${name} training
 echo ${name} training = faculty ${faculty}
 
 
 
+# when to use {} while accessing variables: in case if you have to print string with combination of variables
+
+apple=20
+echo apple price=${apple} dollers
