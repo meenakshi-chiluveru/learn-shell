@@ -19,3 +19,4 @@
 sample (){
   echo sample function
 }
+ sample
