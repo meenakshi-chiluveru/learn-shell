@@ -20,3 +20,5 @@ sample (){
   echo sample function
 }
  sample
+ sample
+ sample
