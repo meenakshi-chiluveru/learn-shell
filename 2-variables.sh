@@ -8,8 +8,8 @@
 
 name = devops
 faculty = john
-echo welcome to $name training
-echo $name training = faculty $faculty
+echo welcome to ${name} training
+echo ${name} training = faculty ${faculty}
 
 
 
