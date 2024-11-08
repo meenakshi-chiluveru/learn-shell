@@ -60,6 +60,7 @@ echo enviromnment variable z=$z
 # lets have discussion on outputs
 # redirectors: < determines input to a system
 # > determines output to a file
+# > output
 
 
 
