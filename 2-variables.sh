@@ -36,8 +36,23 @@ echo 2+3+4 - $add
 
 # you can access a variable from cli
 
-# Approch 1 - x=100 bash 2-variables.sh
+# Approch 1 - x=100 y=200 bash 2-variables.sh
 echo value of x from cli - $x
 echo value of x from cli - $y
+
+#approch2: bash 2-variables,sh 100 200 ($1,$2.$*,$# these are all spcial variables in shell)
+echo the first argument $1
+echo the second argument $2
+echo all arguments $*
+echo argument count $#
+
+#Approch3: export z=500; bash 2-variables.sh
+echo enviromnment variable z=$z
+
+
+
+
+
+
 
 
