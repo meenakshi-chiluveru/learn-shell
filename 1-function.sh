@@ -1,3 +1,5 @@
+# functions,
+
 # function is a name given to set of commands
 # syntax for function
 # function(){
@@ -18,6 +20,7 @@
 # example for function
 sample (){
   echo sample function
+  echo this is shell scripting
 }
  sample
  sample
