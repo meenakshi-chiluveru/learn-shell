@@ -17,3 +17,20 @@ echo ${name} training = faculty ${faculty}
 
 apple=20
 echo apple price=${apple} dollers
+
+
+# variables in functions
+# --> declare variable in function main program can access it and vise versa
+
+## variable substitution
+# command substitution - you can declare a variable by executing a command and store the output in a
+# variable
+syntax var=$(command)
+# arithmatic substitution: you can declare a variable by solving the given arithmatic expressions
+# syntax: var=$((1+2-3/4))
+
+date=$(date)
+echo today date is ${date}
+add=$((2+3+4))
+echo 2+3+4 - $add
+
