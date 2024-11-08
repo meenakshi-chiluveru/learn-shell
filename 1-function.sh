@@ -25,3 +25,7 @@ sample (){
  sample
  sample
 
+demo(){
+  echo first argument $1
+}
+demo 1000

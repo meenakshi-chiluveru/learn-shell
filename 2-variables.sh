@@ -49,6 +49,18 @@ echo argument count $#
 #Approch3: export z=500; bash 2-variables.sh
 echo enviromnment variable z=$z
 
+# variables names should have alphabets,numbers,underscroll _ same fro functions also
+# variable names have styles
+#1 camelcase -courseName
+# pascal case -CourseName
+# snakecase = course_name
+# - is not supported in shell
+
+
+# lets have discussion on outputs
+# redirectors: < determines input to a system
+# > determines output to a file
+
 
 
 
